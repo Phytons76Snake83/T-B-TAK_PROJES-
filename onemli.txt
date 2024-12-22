@@ -1,0 +1,34 @@
+139: Şiirin 2. Satırındaki 3. Kelimesinden başlanarak ilk 9. Harf+
+167: Şiirin 2. Satırındaki 6. Kelimesinden başlanarak ilk 7. Harf+
+193: Şiirin 2. Satırındaki 9. Kelimesinden başlanarak ilk 3. Harf+
+239: Şiirin 3. Satırındaki 3. Kelimesinden başlanarak ilk 9. Harf+
+263: Şiirin 3. Satırındaki 6. Kelimeden başlanarak ilk 3. Harf+
+293: Şiirin 3. Satırındaki 9. Kelimeden başlanarak ilk 3. Harf +
+313: Şiirin 4. Satırındaki 1. Kelimeden başlanarak ilk 3. Harf+
+331: Şiirin 4. Satırındaki 3. Kelimeden başlanarak ilk 1. Harf+
+367: Şiirin 4. Satırındaki 6. Kelimeden başlanarak ilk 7. Harf+
+379:Şiirin 4. Satırındaki 7. Kelimeden başlanarak ilk 9. Harf+
+383:Şiirin 4. Satırındaki 8. Kelimeden başlanarak ilk 3. Harf+
+397:Şiirin 4. Satırındaki 9. Kelimeden başlanarak ilk 7. Harf+
+409: Şiirin 5. Satırındaki 1. Kelimeden başlanarak ilk 9. Harf+
+487: Şiirin 5. Satırındaki 8. Kelimeden başlanarak ilk 7. Harf+
+563: Şiirin 6. Satırındaki 6. Kelimeden başlanarak ilk 3. Harf+
+617: Şiirin 7. Satırındaki 1. Kelimeden başlanarak ilk 7. Harf+
+653: Şiirin 7. Satırındaki 5. Kelimeden başlanarak ilk 3. Harf+
+673:Şiirin 7. Satırındaki 7. Kelimeden başlanarak ilk 3. Harf+
+683: Şiirin 7. Satırındaki 8. Kelimeden başlanarak ilk 3. Harf+
+709:Şiirin 8. Satırındaki 1. Kelimeden başlanarak ilk 9. Harf +
+739:Şiirin 8. Satırındaki 3. Kelimeden başlanarak ilk 9. Harf+
+761:Şiirin 8. Satırındaki 6. Kelimeden başlanarak ilk 1. Harf+
+863:Şiirin 9. Satırındaki 6. Kelimeden başlanarak ilk 3. Harf+
+881:Şiirin 9. Satırındaki 8. Kelimeden başlanarak ilk 1. Harf+
+907:Şiirin 10. Satırındaki 1. Kelimeden başlanarak ilk 7. Harf
+937: Şiirin 10. Satırındaki 3. Kelimeden başlanarak ilk 7. Harf
+
+7: Şiirin ilk satırındaki ilk 7. Harf
+13: Şiirin ilk satırındaki ilk 13. Harf
+19: Şiirin ilk satırındaki ilk 19. Harf
+23: Şiirin ilk satırındaki ilk 23. Harf
+31: Şiirin ilk satırındaki ilk 31. Harf
+103: Şiirin 2. Satırındaki ilk 3. Harf
+109: Şiirin 2. Satırındaki ilk 9. Harf
